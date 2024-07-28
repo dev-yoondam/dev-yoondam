@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=FEE1E88&height=300&section=header&text=YUN%20DAM&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FEE1E8&height=300&section=header&text=YUN%20DAM&fontSize=90" />
 
 
 
