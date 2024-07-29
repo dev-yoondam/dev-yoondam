@@ -9,7 +9,7 @@
 
 
 <div align=center>
-		<h3>깃허브, 깃, Oracle ,CSS3, HTML5, JS, SpringBoot, ApachaTomcat, MySQL, Oracle, AdobePhotoshot, AdobeXD, Java</h3>
+		<h3>Skills💪🏻</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
